@@ -21,4 +21,9 @@ So I used multiple print statements with \n spaces so that the size of the windo
 For example, for users on a large screen, reading the text and data would be easy. 
 However, for users on different smaller screen sizes, the layout of the text would be hard to read as it would be compacted like an essay. 
 
+![figure 1](https://user-images.githubusercontent.com/25238652/120664191-b2a9b580-c4c5-11eb-91e7-10b935d0c51a.PNG)
+![figure2](https://user-images.githubusercontent.com/25238652/120664205-b50c0f80-c4c5-11eb-9a56-47f46c57bf47.PNG)
+![figure 3](https://user-images.githubusercontent.com/25238652/120664216-b6d5d300-c4c5-11eb-962e-205abe00a60e.PNG)
+
+
 
