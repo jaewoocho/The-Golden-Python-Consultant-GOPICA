@@ -16,6 +16,6 @@ For thousands of years ago to the current modern times, gold has been an univers
 ![gold price 2020 time series 1](https://user-images.githubusercontent.com/25238652/120663566-17b0db80-c4c5-11eb-9d37-3fa42eebf093.PNG)
 ![gold price 2020 timeseries percent](https://user-images.githubusercontent.com/25238652/120663577-1a133580-c4c5-11eb-961d-70dddcf2c55e.PNG)
 ![real time gold code](https://user-images.githubusercontent.com/25238652/120663582-1bdcf900-c4c5-11eb-8f59-05f0c279d1ed.PNG)
-![sentiment code](https://user-images.githubusercontent.com/25238652/120663588-1d0e2600-c4c5-11eb-9a50-43a4a8744180.PNG)
+
 
 
